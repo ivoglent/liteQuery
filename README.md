@@ -1,0 +1,2 @@
+# liteQuery
+Minimum Javascript Library
