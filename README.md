@@ -17,5 +17,7 @@ Temporary called liteQuery .Base on basic javascript .Tested on chrome, firefox 
 10. on
 11. addClass
 12. removeClass
+13. HTTP POST/GET
+14. Some useful function
 
 If you want more, just create an issue :)
